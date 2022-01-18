@@ -1,5 +1,5 @@
 # WaspX-Website
 
-Website was made for my dad and I used this opportunity to improve my web development and learn how to make website responsive.
+Website was made for a client at the domain waspx.co.uk
 
 Created using HTML, CSS, and JS
